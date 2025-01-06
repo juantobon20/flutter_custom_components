@@ -1,7 +1,7 @@
 name: flutter_custom_components
 description: "Componentes para flutter."
 version: 0.0.1
-repository:
+repository: https://github.com/juantobon20/flutter_custom_components
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
